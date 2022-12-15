@@ -1,6 +1,6 @@
 function repeticao(){
 
- var txt = document.getElementById('resultado');
+ let txt = document.getElementById('resultado').innerHTML
 
  while(txt==)
 
